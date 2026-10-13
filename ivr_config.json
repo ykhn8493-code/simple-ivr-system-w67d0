@@ -1,0 +1,10 @@
+{
+  "company_name": "Acme Cloud Services",
+  "greeting_message": "Thank you for calling Acme Cloud Services. Please listen carefully to the following options: Press 1 for Sales. Press 2 for Technical Support. Press 3 for Office Hours and Location. Press 4 to leave a Voicemail. Press 0 to speak with an Operator.",
+  "business_hours": "Our office is located at 100 Main Street, Suite 400. We are open Monday through Friday from 8:00 AM to 6:00 PM Eastern Time. You can also visit us online at www.example.com.",
+  "sales_message": "Connecting you to our Sales department. Please hold while we transfer your call.",
+  "support_message": "You have reached Technical Support. All representatives are currently assisting other callers. Please hold, or press 4 from the main menu to leave a message.",
+  "operator_message": "Transferring you to the front desk operator. One moment please.",
+  "voicemail_prompt": "Please leave your name, phone number, and a brief message after the beep. Press pound when you are finished.",
+  "invalid_choice_message": "Sorry, that is not a valid option. Please try again."
+}
